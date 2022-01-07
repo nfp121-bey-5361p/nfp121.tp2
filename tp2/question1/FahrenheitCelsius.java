@@ -3,6 +3,9 @@ package question1;
 /**
  * Décrivez votre classe FahrenheitCelsius ici.
  * 
+ * Classe qui contient une methode utilitaire pour convertir fahrenheit
+ * en celsius 
+ * 
  * @author (votre nom)
  * @version (un numéro de version ou une date)
  */
